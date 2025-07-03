@@ -1,1 +1,1 @@
-# recipes
+This is an exercise project for the HTML fondations section of The Odin Project.
